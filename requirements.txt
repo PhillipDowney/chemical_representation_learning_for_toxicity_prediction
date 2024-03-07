@@ -1,4 +1,4 @@
-paccmann_predictor @ git+https://github.com/PaccMann/paccmann_predictor@sarscov2
+paccmann_predictor @ git+https://github.com/PaccMann/paccmann_predictor@0.0.2
 numpy>=1.14.3
 torch>=1.5.1
 deepchem>=2.4
