@@ -25,11 +25,11 @@ setup(
     description=("PyTorch implementation of toxicity prediction models from SMILES."),
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/PaccMann/toxsmi",
+    url="https://github.com/PhillipDowney/toxsmi",
     author="Jannis Born, Greta Markert, Matteo Manica",
     author_email=("jab@zurich.ibm.com, greta.markert@gmail.com, drugilsberg@gmail.com"),
     install_requires=[
-        "paccmann_predictor @ git+https://github.com/PaccMann/paccmann_predictor",
+        "paccmann_predictor @ git+https://github.com/PhillipDowney/paccmann_predictor",
         "torch",
         "deepchem",
         "tensorflow>=2.0",
